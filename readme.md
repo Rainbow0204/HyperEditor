@@ -1,6 +1,16 @@
 # HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks
 
-<br>
+|[Paper(Arxiv)](https://arxiv.org/abs/2312.13537)|
+
+
+
+## To Do List
+
+- [ ] Release the inference code and demo.
+- [ ] Release the evaluation code.
+- [ ] Release the training code.
+
+
 
 ## Getting Started
 
