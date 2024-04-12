@@ -4,12 +4,6 @@
 
 **Congratulations on our article being accepted by AAAI2024**
 
-## To Do List
-
-- [ ] Release the inference code and demo.
-- [ ] Release the evaluation code.
-- [ ] Release the training code.
-
 
 
 ## Getting Started
