@@ -135,3 +135,18 @@ python scripts/inference.py
 - The results are saved to `--exp_dir`.
 - The path to the trained HyperEditor model is stored in `--checkpoint_path`.
 - The path to the test images is stored in `--data_path`.
+
+
+## Citation
+If you use this code for your research, please cite the following work:
+```
+@inproceedings{zhang2024hypereditor,
+  title={HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks},
+  author={Zhang, Hai and Wu, Chunwei and Cao, Guitao and Wang, Hailing and Cao, Wenming},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={7},
+  pages={7051--7059},
+  year={2024}
+}
+```
